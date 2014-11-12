@@ -1,5 +1,5 @@
 <?php
-$_lang["Download"] = "Download";
+$_lang["Download"] = "Baixar";
 $_lang["Home"] = "Início";
 $_lang["Status"] = "Status";
 $_lang["Username"] = "Usuário";
@@ -15,10 +15,10 @@ $_lang["Voice interaction with other drivers - click to join TS3 server."] = "In
 $_lang["Latest news on our facebook."] = "Últimas notícias no nosso facebook.";
 $_lang["registration.blocked"] = "Criação da conta está desativada - estamos trabalhando em algumas características que nos forçam a bloquear a criação da conta. A função será reativada quando tudo estiver pronto e quando formos capazes de publicar a nova versão.";
 $_lang["invalid.username.password"] = "Usuário ou senha inválidos";
-$_lang["already.logged"] = "Sie sind bereits angemeldet.";
+$_lang["already.logged"] = "Você já está registrado.";
 $_lang["welcome"] = "Bem vindo(a)";
 $_lang["logout"] = "Sair";
-$_lang["bans"] = "Bans";
+$_lang["bans"] = "Banir";
 $_lang["download"] = "Download";
 $_lang["version"] = "Versão";
 $_lang["update.time"] = "Tempo de atualização";
